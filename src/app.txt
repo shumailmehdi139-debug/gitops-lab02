@@ -1,3 +1,2 @@
 "GitOps Student Project" 
 "Version 1" 
-"Student profile feature" 
